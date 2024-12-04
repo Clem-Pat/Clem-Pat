@@ -3,7 +3,7 @@
   <h3>Studying artificial intelligence in ENSTA Bretagne engineering school</h3>
   <a href="https://www.ensta-bretagne.fr">
     <img src="https://www.ensta-bretagne.fr/sites/default/files/2019-10/ENSTABretagne-LogoH-RVB-COULEUR.jpg" alt="Logo ENSTA Bretagne" style="width: 300px; display: block; margin: 10px auto;">
-  </a>
+  </a> <br>
   <a href="https://www.linkedin.com/in/cl%C3%A9ment-patrizio-827518193/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Clément Patrizio" height="30" width="40" style="display: block; margin: 10px auto;">
   </a>
