@@ -23,78 +23,42 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; text-align: center;">
-  <div>
+<div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 15px; text-align: center;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
     </a>
     <p>Python</p>
   </div>
-  <div>
+  <div style="display: inline-block; margin: 0 15px; text-align: center;">
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     </a>
     <p>TensorFlow</p>
   </div>
-  <div>
+  <div style="display: inline-block; margin: 0 15px; text-align: center;">
     <a href="https://pytorch.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
     </a>
     <p>PyTorch</p>
   </div>
-  <div>
+  <div style="display: inline-block; margin: 0 15px; text-align: center;">
     <a href="https://isocpp.org" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
     </a>
     <p>C++</p>
   </div>
-  <div>
+  <div style="display: inline-block; margin: 0 15px; text-align: center;">
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
     </a>
     <p>MATLAB</p>
   </div>
-  <div>
+  <div style="display: inline-block; margin: 0 15px; text-align: center;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
     </a>
     <p>JavaScript</p>
-  </div>
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
-    </a>
-    <p>HTML</p>
-  </div>
-  <div>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-    </a>
-    <p>CSS</p>
-  </div>
-  <div>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <p>MySQL</p>
-  </div>
-  <div>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-    </a>
-    <p>Flutter</p>
-  </div>
-  <div>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-    </a>
-    <p>Java</p>
-  </div>
-  <div>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-    </a>
-    <p>Node.js</p>
   </div>
 </div>
 
