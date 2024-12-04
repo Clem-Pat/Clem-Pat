@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning projects related to health field**
 
-- 📝 Mylast project is a C++ application for fitness robots named [CoachBot](https://github.com/Clem-Pat/Coach_Bot)  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Tokyo_University_of_Science.svg/800px-Tokyo_University_of_Science.svg.png" alt="Logo Tokyo University of Science" width="50">
+- 📝 My last project is a C++ application for fitness robots named [CoachBot](https://github.com/Clem-Pat/Coach_Bot)  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Tokyo_University_of_Science.svg/800px-Tokyo_University_of_Science.svg.png" alt="Logo Tokyo University of Science" width="30">
 
 - 📫 How to reach me **clement.patrizio@ensta-bretagne.org**
 
