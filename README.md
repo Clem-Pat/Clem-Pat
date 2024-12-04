@@ -32,14 +32,17 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> 
+  Python
 </a>
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
+  TensorFlow (Machine Learning)
 </a>
 
 <a href="https://pytorch.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
+  PyTorch (Machine Learning)
 </a>
 
 <a href="https://isocpp.org" target="_blank" rel="noreferrer">
@@ -60,10 +63,6 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-
-<a href="https://railway.app" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" alt="Railway" width="40" height="40"/> 
 </a>
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
