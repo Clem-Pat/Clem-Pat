@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Clément Patrizio</h1>
-<h3 align="center">Studying <br> artificial intelligence </br> in ENSTA Bretagne engineering school</h3>
-<a align="center" href="https://www.ensta-bretagne.fr">
-  <img src="https://www.ensta-bretagne.fr/sites/default/files/2019-10/ENSTABretagne-LogoH-RVB-COULEUR.jpg" alt="Logo ENSTA Bretagne" style="width:300px;">
-</a>
-<a align="center" href="https://www.linkedin.com/in/cl%C3%A9ment-patrizio-827518193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cl%C3%A9ment-patrizio-827518193/" height="30" width="40" /></a>
-<a align="center">LinkedIn - Clément Patrizio</a>
+<div style="text-align: center;">
+  <h1>Hi 👋, I'm Clément Patrizio</h1>
+  <h3>Studying artificial intelligence in ENSTA Bretagne engineering school</h3>
+  <a href="https://www.ensta-bretagne.fr">
+    <img src="https://www.ensta-bretagne.fr/sites/default/files/2019-10/ENSTABretagne-LogoH-RVB-COULEUR.jpg" alt="Logo ENSTA Bretagne" style="width: 300px; display: block; margin: 10px auto;">
+  </a>
+  <a href="https://www.linkedin.com/in/cl%C3%A9ment-patrizio-827518193/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Clément Patrizio" height="30" width="40" style="display: block; margin: 10px auto;">
+  </a>
+  <p>LinkedIn - Clément Patrizio</p>
+</div>
 
 - 🔭 I’m currently working on **Machine learning and image processing projects**
 
