@@ -23,7 +23,7 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 
-<div style="display: flex; justify-content: space-around; align-items: center; text-align: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <div>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
@@ -68,7 +68,7 @@
   </div>
   <div>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
     </a>
     <p>CSS</p>
   </div>
