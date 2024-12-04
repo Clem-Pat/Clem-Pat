@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="align: center;">
   <h1>Hi 👋, I'm Clément Patrizio</h1>
   <h3>Studying artificial intelligence in ENSTA Bretagne engineering school</h3>
   <a href="https://www.ensta-bretagne.fr">
