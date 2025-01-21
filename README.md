@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Clément Patrizio</h1>
-  <h3>Studying artificial intelligence at ENSTA Bretagne engineering school</h3>
+  <h3>Studying artificial intelligence at ENSTA engineering school</h3>
   <a href="https://www.ensta-bretagne.fr">
     <img src="https://www.ensta-paris.fr/profiles/createur_profil/themes/createur/dist/images/logo_ensta_new2.png.pagespeed.ce.6ckDRmYhwW.png" alt="Logo ENSTA" width="200">
   </a>
